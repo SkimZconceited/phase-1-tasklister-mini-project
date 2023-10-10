@@ -15,3 +15,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
   btnSub.addEventListener('click', listAppending);
 });
+// Listens for a task and updates the content upon the click event in the specified HTML element
